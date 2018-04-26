@@ -1,6 +1,8 @@
-import peewee
+from peewee import *
 
 mysql_db = MySQLDatabase('trends_vinho')
+
+print(mysql_db.connect())
 
 class BaseModel(Model):
 
