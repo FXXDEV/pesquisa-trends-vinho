@@ -5,5 +5,6 @@ Esse projeto está utilizando a aversão 3.6.5 do python, a biblioteca py-trends
 Para mais informações busque na documentação de cada tecnologia.
 
 ## Outras Informações
+A estrutura do banco de dados está contida na pasta `utils`
 
 ## Integrantes da Pesquisa
